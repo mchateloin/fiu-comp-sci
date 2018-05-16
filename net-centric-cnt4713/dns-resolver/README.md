@@ -1,8 +1,3 @@
-Student name and	ID:	Miguel Chateloin 3558744
-Operating system: Windows
-Programing language:	Python
-Compiling instructions:	None, see running
-
 Running
 ==========
 
